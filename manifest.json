@@ -1,0 +1,51 @@
+{
+    "short_name":"Cars",
+    "name":"Cars página web",
+    "start_url":"index.html",
+    "background_color":"#333",
+    "theme_color":"#333",
+    "display":"standalone",
+    "orientation":"portrait",
+    "icons": [
+        {
+            "src": "/logos/logo72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/logos/logo96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/logos/logo128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/logos/logo144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/logos/logo152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/logos/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/logos/logo384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/logos/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+      ]
+}

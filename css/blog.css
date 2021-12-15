@@ -1,0 +1,57 @@
+#blog h3, h4 {
+    text-align: center;
+}
+
+#blog .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article {
+    margin: 15px;
+}
+
+#blog img {
+    width: 100%;
+    max-width: 280px;
+}
+
+#blog-2 h2, h4 {
+    text-align: center;
+}
+
+#blog-2 .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog-2 article {
+    margin: 15px;
+}
+
+#blog-2 img {
+    width: 100%;
+    height: 100%
+}
+
+#blog-3 h2 {
+    text-align: center;
+}
+
+#blog-3 .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog-3 article {
+    margin: 15px;
+    
+}
+
+#blog-3 img {
+    width: 100%;
+    height: 100%
+}
